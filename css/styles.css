@@ -18,3 +18,22 @@
     color: coral;
     float: left;
 }
+.unimportant {
+    font-style: italic;
+    color: brown;
+}
+.important {
+    color: crimson;
+}
+.branching {
+    font-style: initial;
+    font-size: initial;
+    font-weight: lighter;
+    color: lawngreen;
+}
+.weakness {
+    font-style: italic;
+    font-weight: lighter;
+    font-size: small;
+    color: black;
+}
