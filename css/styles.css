@@ -44,10 +44,7 @@
     color: rgb(0, 252, 55);
 }
 fa {
-    margin: 15px 23px;
     display: block;
-    padding: 8px;
     border: 1px solid slategrey;
-    border-radius: 50%;
     cursor: pointer;
 }
